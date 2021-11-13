@@ -1,0 +1,19 @@
+  .parag{
+    text-align: center;
+    font-size: large;
+  }
+  .imageWine{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.divtop{
+  background-image: linear-gradient(to right,rgb(204, 77, 27),rgb(187, 74, 65));
+  color:whitesmoke;
+  text-shadow: 2px 2px black;
+  text-align: center;
+}
+.classify{
+  text-align: center;
+}
